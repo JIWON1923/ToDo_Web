@@ -2,6 +2,9 @@
 ## Whimsical
 - 와이어프레임 설계
 - pc 버전, 모바일 버전 설계 (반응형 웹 계획 중)
+- pc version < https://whimsical.com/pc-ver-KNHdsNTcXi8Pwh11s81VEG >
+- mobile version < >
+- comment 가능!
 ## 설명
 - to do 리스트를 기반으로 하루를 어떻게 보냈는지 확인 가능한 사이트
 - 요즈음 유튜브를 이용한 수업이 많음 (생활코딩 등을 활용하여 학습중)
